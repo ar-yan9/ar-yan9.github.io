@@ -6,7 +6,7 @@ const icon='<svg viewBox="0 0 32 40" fill="none" aria-hidden="true"><path d="M5 
 const items=paper?[{title:'Cost-Efficient Agricultural Drones',issuer:'IJSRED · Volume 9, Issue 2',image:'1-research-paper-preview.png',file:'2-research-paper.pdf',name:'Aryan-Agricultural-Drones-IJSRED.pdf'}]:[
  {title:'Cybersecurity Analyst Job Simulation',issuer:'Tata · Forage',image:'3-tata-cyber-preview.png',file:'4-tata-cyber-certificate.pdf',name:'Aryan-Tata-Cybersecurity-Certificate.pdf'},
  {title:'Solutions Architecture Job Simulation',issuer:'AWS · Forage',image:'5-aws-architecture-preview.png',file:'6-aws-architecture-certificate.pdf',name:'Aryan-AWS-Architecture-Certificate.pdf'},
- {title:'100 Days of Code: Python Bootcamp',issuer:'Udemy'},
+ {title:'100 Days of Code: The Complete Python Pro Bootcamp',issuer:'Udemy',image:'2-udemy-python-preview.jpg',file:'1-udemy-python-certificate.pdf',name:'Aryan-Udemy-Python-Certificate.pdf'},
  {title:'Database Management System',issuer:'Unstop',image:'3-unstop-dbms-preview.png',file:'4-file-680af10f.pdf',name:'Aryan-Unstop-DBMS-Certificate.pdf'},
  {title:'SQL for Beginners',issuer:'Scaler',image:'1-scaler-sql-preview.png',file:'2-scaler-sql-certificate.pdf',name:'Aryan-Scaler-SQL-Certificate.pdf'},
  {title:'Research publication certificate',issuer:'IJSRED',image:'5-ijsred-publication-preview.png',file:'6-file-9cc2f34a.pdf',name:'Aryan-IJSRED-Publication-Certificate.pdf'}];
