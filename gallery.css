@@ -6,3 +6,4 @@
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.frame-open{transition:none}}
 
 .frame-card .mat>img{display:block;width:100%;aspect-ratio:1.42;object-fit:contain;background:#fff}.viewer-frame .mat>img{max-height:68dvh;max-width:100%;width:auto;margin:auto}.frame-open img{color:var(--mut)}
+.paper-wall .frame-card .mat>img{aspect-ratio:auto}
